@@ -1,0 +1,12 @@
+[gd_scene format=2]
+
+[node name="you win" type="Node2D"]
+
+[node name="TextureRect" type="TextureRect" parent="."]
+modulate = Color( 0, 0, 0, 1 )
+self_modulate = Color( 0, 0, 0, 1 )
+margin_right = 1018.0
+margin_bottom = 612.0
+__meta__ = {
+"_edit_use_anchors_": false
+}
